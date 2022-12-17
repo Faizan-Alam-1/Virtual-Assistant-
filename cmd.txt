@@ -1,0 +1,14 @@
+-> commond 
+
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop
